@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Emulator config file set to D:\CLOUD-PROJEKAT\Razvoj-Cloud-aplikacija\RedditService\RedditService\csx\Debug\roles\HealthMonitoringService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] DiagnosticsStoreRootPath set to: C:\Users\Milijana\AppData\Local\dftmp\Resources\fe3490a3-ad60-467f-b46c-9d9005523705
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Loading config file: D:\CLOUD-PROJEKAT\Razvoj-Cloud-aplikacija\RedditService\RedditService\csx\Debug\roles\HealthMonitoringService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Config file to read: D:\CLOUD-PROJEKAT\Razvoj-Cloud-aplikacija\RedditService\RedditService\csx\Debug\roles\HealthMonitoringService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Emulator config file set to D:\CLOUD-PROJEKAT\Razvoj-Cloud-aplikacija\RedditService\RedditService\csx\Debug\roles\HealthMonitoringService\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [5/20/2024 9:26:16 PM] Resetting DiagnosticPlugin
